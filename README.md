@@ -19,13 +19,6 @@ I'm currently studying Information Technology Engineering, exploring and learnin
 
 ---
 
-### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- [Email](mailto:tuemail@example.com)
-- [GitHub](https://github.com/tu-usuario)
-
----
-
 ### 🌱 Currently Learning
 - Dart & Flutter
 
@@ -35,3 +28,9 @@ I'm currently studying Information Technology Engineering, exploring and learnin
 - HTML, CSS, JavaScript 
 - Spring Boot 
 
+---
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
+- [Email](mailto:tuemail@example.com)
+- [GitHub](https://github.com/tu-usuario)
