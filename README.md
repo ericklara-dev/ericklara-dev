@@ -32,5 +32,5 @@ I'm currently studying Information Technology Engineering, exploring and learnin
 
 ### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/tu-linkedin)
-- [Email](mailto:tuemail@example.com)
+- [Email](mailto:zerickly.dev@gmail.com)
 - [GitHub](https://github.com/tu-usuario)
